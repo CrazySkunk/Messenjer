@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chatter.iml" filepath="$PROJECT_DIR$/.idea/modules/Chatter.iml" group="Chatter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Chatter-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Chatter-app.iml" group="Chatter/app" />
       <module fileurl="file://$PROJECT_DIR$/MyS3Chat.iml" filepath="$PROJECT_DIR$/MyS3Chat.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

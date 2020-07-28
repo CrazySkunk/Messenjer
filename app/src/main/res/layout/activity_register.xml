@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context="com.mys3soft.mys3chat.ActivityRegister">
+    tools:context=".ActivityRegister">
 
     <ScrollView
         android:layout_width="match_parent"
